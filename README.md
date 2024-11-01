@@ -1,6 +1,6 @@
 # kalib
 
-calibration app
+calibration off relative gravimeters
 
 ## Installation & Usage
 
